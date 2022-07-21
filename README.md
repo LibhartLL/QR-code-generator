@@ -22,7 +22,7 @@ QR Code Generator API by Foundata GmbH
 https://favicon.io/favicon-converter/
 
 ## Screenshot
-Project screenshot Link to my deployed github page: https://libhartll.github.io/QR-code-generator
+Project screenshot Link to my deployed github page: https://libhartll.github.io/QR-code-generator/
 ![This is an image](./assets/images/Image%207-21-22%20at%203.28%20PM.jpg)
 ![This is an image](./assets/images/Image%207-21-22%20at%203.29%20PM.jpg)
 
@@ -45,6 +45,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 Lindsay L. Libhart
 Libhartinc@gmail.com
 GitHub Challenge 06 Repository: WeatherDashboard06
-https://github.com/LibhartLL/QR-code-generator
+https://libhartll.github.io/QR-code-generator/
 GitHub Repository for Lindsay L. Libhart
 https://github.com/LibhartLL
